@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Jennifer Aniston",
+      "id": "rachel"
+    },
+    {
+      "name": "Matthew Perry",
+      "id": "chandler"
+    },
+    {
+      "name": "Matt Le Blanc",
+      "id": "joey"
+    },
+    {
+      "name": "David Shwimmer",
+      "id": "ross"
+    },
+    {
+      "name": "Lisa Cudrow",
+      "id": "phoebe"
+    },
+    {
+      "name": "Courtney Cox",
+      "id": "monica"
+    }
+  ]
+}
